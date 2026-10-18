@@ -1,0 +1,6 @@
+{
+  "name": "Cluedo Card Studio Pro",
+  "description": "Generatore carte originale Cluedo Hasbro per creare suggerimenti e casi misteriosi personalizzati, stampabili fronte e retro in PDF per cartoncino, con database locale e sync cloud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
